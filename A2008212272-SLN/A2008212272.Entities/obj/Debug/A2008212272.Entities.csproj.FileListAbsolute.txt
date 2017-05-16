@@ -1,0 +1,4 @@
+C:\Users\Servicio Tecnico\Desktop\Practica 2\A2008212272-SLN\A2008212272.Entities\bin\Debug\A2008212272.Entities.dll
+C:\Users\Servicio Tecnico\Desktop\Practica 2\A2008212272-SLN\A2008212272.Entities\bin\Debug\A2008212272.Entities.pdb
+C:\Users\Servicio Tecnico\Desktop\Practica 2\A2008212272-SLN\A2008212272.Entities\obj\Debug\A2008212272.Entities.dll
+C:\Users\Servicio Tecnico\Desktop\Practica 2\A2008212272-SLN\A2008212272.Entities\obj\Debug\A2008212272.Entities.pdb
