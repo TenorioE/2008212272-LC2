@@ -1,0 +1,13 @@
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe.config
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.exe
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Console.pdb
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\EntityFramework.dll
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.pdb
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\PaquetesTuristicos.Persistence.dll.config
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\bin\Debug\EntityFramework.xml
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\2011113756-CON.csprojResolveAssemblyReference.cache
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.exe
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Console\obj\Debug\PaquetesTuristicos.Console.pdb

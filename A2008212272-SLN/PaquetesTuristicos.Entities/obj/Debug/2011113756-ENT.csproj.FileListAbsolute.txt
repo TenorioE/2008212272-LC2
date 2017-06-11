@@ -1,0 +1,5 @@
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Entities\bin\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.dll
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\PaquetesTuristicos.Entities.pdb
+C:\Users\JHONATAN\Desktop\PaqueteTuristico\PaquetesTuristicos.Entities\obj\Debug\2011113756-ENT.csprojResolveAssemblyReference.cache

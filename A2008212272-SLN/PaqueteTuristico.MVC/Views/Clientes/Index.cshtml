@@ -1,0 +1,76 @@
+﻿@model IEnumerable<PaquetesTuristicos.Entities.Cliente>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombres)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApePat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ApeMat)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.email)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Celular)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dirección)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Dni)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NroTarjeta)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombres)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApePat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ApeMat)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.email)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Celular)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dirección)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Dni)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NroTarjeta)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.PersonaId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.PersonaId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.PersonaId })
+        </td>
+    </tr>
+}
+
+</table>
